@@ -26,6 +26,8 @@ h1 {
     color: #d9dcd6;
 }
 
+/* Header navbar styles */
+
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,6 +50,7 @@ a {
     text-decoration: none;
 }
 
+/* Hero banner image styles */
 
 .hero {
     height: 800px;
@@ -58,9 +61,13 @@ a {
     background-position: center;
 }
 
+/* General paragraph styles */
+
 p {
     font-size: 16px;
 }
+
+/* Main content section styles */
 
 .content {
     width: 75%;
@@ -86,6 +93,8 @@ p {
     font-size: 36px;
 }
 
+/* Positional styles for content images */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -95,6 +104,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* Benefits sidebar styles */
 
 .benefits {
     margin-right: 20px;
@@ -122,6 +133,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer styles */
 
 footer {
     padding: 30px;
