@@ -2,7 +2,7 @@
 
 ## This is a **refactoring** of the **Horiseon Search Engine Optimization (SEO)** website.
 
- * The live [web application](https://jeffmullen.github.io/horiseon-code-refactor/#search-engine-optimization).
+ * The live [web application](https://jeffmullen.github.io/horiseon-code-refactor).
 
 ## The purpose of this refactoring:
 
